@@ -1,0 +1,28 @@
+{
+  "renthouse":[
+    {
+      "img_url":"image/secondhandlist/img1.png",
+      "title":"西便门外大街2室1厅89平",
+      "price":"1105万",
+      "address":"南北 高楼层/6层" ,
+      "per_price":"签约价格:13244元/平",
+      "date":"签约日期:2015年11月10日"
+    },
+    {
+      "img_url":"image/secondhandlist/img2.png",
+      "title":"金桥国际 1室1厅 63平",
+      "price":"905万",
+      "address":"南北 高楼层/6层" ,
+      "per_price":"签约价格:13244元/平 ",
+      "date":"签约日期:2015年11月10日"
+    },
+    {
+      "img_url":"image/secondhandlist/img3.png",
+      "title":"花涧溪二期 2室2厅 90平",
+      "price":"1322万",
+      "address":"南北 高楼层/6层" ,
+      "per_price":"签约价格:13244元/平",
+      "date":"签约日期:2015年11月10日"
+    }
+    ]
+}

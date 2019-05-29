@@ -1,0 +1,37 @@
+{
+   "houselist":[
+     {
+       "img_url":"image/index/img1.jpg",
+       "title":"文化部中间层 一层带阁楼",
+       "square":"2室1厅96㎡南北",
+       "price":"1105万",
+       "address":"红庙北里" ,
+       "per_price":"14268元/平",
+       "type":"学区房",
+       "limit":"独家" ,
+       "activity":" "
+     },
+     {
+       "img_url":"image/index/img2.png",
+       "title":"光大水墨 精装复式 稀缺",
+       "square":"2室1厅96㎡南北",
+       "price":"280万",
+       "address":"光大水墨" ,
+       "per_price":"14268元/平",
+       "type":"学区房",
+       "limit":"独家",
+       "activity":"满五唯一"
+     },
+     {
+       "img_url":"image/index/img3.png",
+       "title":"南北通透两居 精装修 无",
+       "square":"2室1厅96㎡南北",
+       "price":"320万",
+       "address":"北京新天地" ,
+       "per_price":"14268元/平",
+       "type":"地铁房",
+       "limit":"独家" ,
+       "activity":" "
+     }
+   ]
+}
